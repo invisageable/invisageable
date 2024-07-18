@@ -27,4 +27,4 @@
 
 ## License.
 
-Copyright (c) **7** february **2024** — *present, @invisageable.*
+Copyright (c) **7** february **2024** — *present, [@invisageable](https://twitter.com/invisageable).*
