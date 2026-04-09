@@ -1,8 +1,8 @@
-# **i**n-v**i**-sa-g**ea**-ble.
+# in-vi-sa-gea-ble.
 
 > *Compilers-in-compiler — [Everyday I'm rustlin' rustlin'](https://www.youtube.com/watch?v=JU9TouRnO84).*
 
-## wh**o**am**i**.
+## whoami.
 
 ```js
 fun main() {
@@ -26,7 +26,7 @@ iT'S ALL ABOUT COMPiLERS. COMPiLERS ARE e-ve-ry-where!
 | NAME                                                      | DESCRiPTiON                                                         |
 | :-------------------------------------------------------- | :------------------------------------------------------------------ |
 | [eazy](https://crates.io/crates/eazy)                     | THE HiGH-PERFORMANCE TWEENiNG & EASiNG FUNCTiONS KiT FOR ANiMATiON. |
-| [swisskit](https://crates.io/crates/swisskit)             | THE SWiSS-ARMY-KNiFE KiT FOR WRiTiNG ROBUST PROGRAM.                     |
+| [swisskit](https://crates.io/crates/swisskit)             | THE SWiSS-ARMY-KNiFE KiT FOR WRiTiNG ROBUST PROGRAM.                |
 | [tree-sitter-zo](https://crates.io/crates/tree-sitter-zo) | THE `zo` GRAMMAR FOR `tree-sitter`.                                 |
 
 **-crates**
@@ -36,7 +36,14 @@ iT'S ALL ABOUT COMPiLERS. COMPiLERS ARE e-ve-ry-where!
 | [fret](https://github.com/invisageable/zo/tree/main/crates/packager/fret) | THE PACKAGE MANAGER FOR THE `zo` PROGRAMMiNG LANGAGE.   |
 | [zo](https://github.com/invisageable/zo)                                  | THE NEXT-GEN COMPiLER FOR THE `zo` PROGRAMMiNG LANGAGE. |
 
-> _more crates are coming. be gentle_.
+**-apps**
+
+| NAME                                                                      | DESCRiPTiON                                    |
+| :------------------------------------------------------------------------ | :--------------------------------------------- |
+| [codelord](https://github.com/invisageable/codelord)                      | THE NEXT-GEN CODE EDiTOR OS-LiKE, GPU-POWERED. |
+
+
+> *More crates are coming. be gentle.*
 
 ## license.
 
