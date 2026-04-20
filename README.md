@@ -6,11 +6,11 @@
 
 ```js
 fun main() {
-  imu src: str = "https://github.com/compilords";
+  imu href: str = "https://github.com/compilords";
   imu base: str = "compilords";
   
   imu view: </> ::= <h1 class="tsh-tsh">
-    x.1.0 Em-ssi Escher dans le Hackerspace <a {src}>@{base}</a>.
+    x.1.0 Em-ssi Escher dans le Hackerspace <a {href}>@{base}</a>.
   </h1>;
 
   #dom view;
