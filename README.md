@@ -17,7 +17,12 @@ fun main() {
 }
 ```
 
-iT'S ALL ABOUT COMPiLERS. COMPiLERS ARE e-ve-ry-where!    
+iT'S ALL ABOUT COMPiLERS. COMPiLERS ARE e-ve-ry-where!   
+
+<!-- ## previews.
+
+![codelord-welcome](./assets/preview/codelord-motion-preview-welcome.gif) -->
+
 
 ## projects.
 
