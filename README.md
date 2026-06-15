@@ -41,12 +41,12 @@ iT'S ALL ABOUT COMPiLERS. COMPiLERS ARE e-ve-ry-where!
 | [fret](https://github.com/invisageable/zo/tree/main/crates/packager/fret) | THE PACKAGE MANAGER FOR THE `zo` PROGRAMMiNG LANGAGE.   |
 | [zo](https://github.com/invisageable/zo)                                  | THE NEXT-GEN COMPiLER FOR THE `zo` PROGRAMMiNG LANGAGE. |
 
-**-apps**
+<!-- **-apps**
 
 | NAME                                                                      | DESCRiPTiON                                    |
 | :------------------------------------------------------------------------ | :--------------------------------------------- |
 | [codelord](https://github.com/invisageable/codelord)                      | THE NEXT-GEN CODE EDiTOR OS-LiKE, GPU-POWERED. |
-
+ -->
 
 > *More crates are coming. be gentle.*
 
